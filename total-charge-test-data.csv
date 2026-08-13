@@ -1,0 +1,11 @@
+customerType,previousOrderCount,paperSize,printType,printingSide,numberOfPages,numberOfCopies,bindingOption,lamination,express,expectedBaseCharge,expectedOptionalCharge,expectedSubtotal,expectedDiscount,expectedTotal
+Regular,0,A4,Black & White,Single-sided,20,2,None,false,false,8.00,0.00,8.00,0.00,8.00
+Student,5,A3,Colour,Double-sided,50,2,Spiral Binding,true,false,140.00,158.00,298.00,29.80,268.20
+Corporate,25,A3,Colour,Single-sided,100,3,None,false,false,450.00,0.00,450.00,104.79,345.21
+Regular,0,A5,Black & White,Single-sided,1,1,None,false,false,0.15,0.00,0.15,0.00,0.15
+Student,0,A4,Colour,Single-sided,100,1,Comb Binding,false,true,80.00,25.00,105.00,10.50,94.50
+Corporate,8,A4,Black & White,Double-sided,500,2,Staple Binding,false,false,180.00,2.00,182.00,27.30,154.70
+Regular,45,A4,Colour,Double-sided,200,3,Spiral Binding,true,true,450.00,928.00,1378.00,134.36,1243.64
+Student,21,A5,Colour,Double-sided,300,4,Comb Binding,true,true,660.00,1825.00,2485.00,466.56,2018.44
+Regular,20,A4,Black & White,Single-sided,500,1000,None,false,false,100000.00,0.00,100000.00,5000.00,95000.00
+Corporate,0,A3,Black & White,Double-sided,60,5,Staple Binding,true,false,105.00,452.00,557.00,107.22,449.78

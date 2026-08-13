@@ -1,0 +1,16 @@
+customerType,subtotal,previousOrderCount,expectedDiscount
+Regular,100.00,0,0.00
+Regular,300.00,0,0.00
+Regular,300.01,0,15.00
+Regular,0.00,0,0.00
+Regular,500.00,30,48.75
+Regular,1000.00,21,97.50
+Student,100.00,0,10.00
+Student,298.00,5,29.80
+Student,300.00,20,30.00
+Student,400.00,21,75.10
+Student,300.01,21,56.33
+Corporate,200.00,0,30.00
+Corporate,450.00,25,104.79
+Corporate,300.01,21,69.86
+Corporate,1200.00,0,231.00

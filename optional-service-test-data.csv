@@ -1,0 +1,11 @@
+bindingOption,lamination,express,numberOfPages,numberOfCopies,expectedCharge
+None,false,false,10,1,0.00
+Staple Binding,false,false,10,1,2.00
+Comb Binding,false,false,10,1,5.00
+Spiral Binding,false,false,10,1,8.00
+None,true,false,10,2,30.00
+None,false,true,10,1,20.00
+Spiral Binding,true,false,50,2,158.00
+Comb Binding,true,true,20,3,115.00
+Staple Binding,false,true,1,1,22.00
+Spiral Binding,true,true,500,1000,750028.00

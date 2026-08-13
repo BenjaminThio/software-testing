@@ -1,0 +1,8 @@
+name,emailAddress,phoneNumber,customerType,expectedStoredPhone
+Nur Aisyah,nur.aisyah@example.com,0123334444,Student,0123334444
+Wong Kar Wai,karwai.wong@example.com,013-2223333,Regular,0132223333
+Muthu Samy,muthu.samy@corp.com.my,01198887777,Corporate,01198887777
+Ab,ab@xy.co,0121234567,Regular,0121234567
+Abcdefghij Abcdefghij Abcdefghij Abcdefghij Abcdef,long.name@example.com,0129998888,Student,0129998888
+O'Brien Lee,obrien.lee@example.com,0111234567,Corporate,0111234567
+Tan Wei-Ming Junior,weiming.jr@example.com,019-8887777,Regular,0198887777

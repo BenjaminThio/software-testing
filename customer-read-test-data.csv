@@ -1,0 +1,6 @@
+customerId,expectedName,expectedEmail,expectedPhone,expectedType,expectedPreviousOrders
+C0001,Ali Bin Ahmad,ali.ahmad@example.com,0123456789,Student,3
+C0002,Siti Nurhaliza,siti.n@example.com,0139876543,Regular,12
+C0003,Tan Wei Ming,weiming.tan@printhub.com.my,01123456789,Corporate,25
+C0004,Kavitha Rajan,kavitha.rajan@example.com,0175551234,Student,21
+C0005,Lim Mei Ling,meiling.lim@example.com,0198887777,Regular,20

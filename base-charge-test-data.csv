@@ -1,0 +1,15 @@
+paperSize,printType,printingSide,numberOfPages,numberOfCopies,expectedBaseCharge
+A4,Black & White,Single-sided,20,2,8.00
+A4,Black & White,Double-sided,100,1,18.00
+A4,Colour,Single-sided,10,3,24.00
+A4,Colour,Double-sided,50,2,75.00
+A3,Black & White,Single-sided,25,4,40.00
+A3,Black & White,Double-sided,60,5,105.00
+A3,Colour,Single-sided,100,3,450.00
+A3,Colour,Double-sided,50,2,140.00
+A5,Black & White,Single-sided,1,1,0.15
+A5,Black & White,Double-sided,500,1000,65000.00
+A5,Colour,Single-sided,80,2,96.00
+A5,Colour,Double-sided,200,1,110.00
+A4,Black & White,Single-sided,500,1,100.00
+A4,Black & White,Single-sided,1,1000,200.00

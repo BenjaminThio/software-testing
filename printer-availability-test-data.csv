@@ -1,0 +1,7 @@
+paperSize,printType,printerAvailable,expectedOrderStatus
+A4,Black & White,true,Confirmed
+A4,Colour,true,Confirmed
+A3,Black & White,true,Confirmed
+A3,Colour,false,Cancelled
+A5,Black & White,false,Cancelled
+A5,Colour,true,Confirmed

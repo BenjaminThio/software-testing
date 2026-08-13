@@ -1,0 +1,12 @@
+name,emailAddress,phoneNumber,customerType,reasonForRejection
+A,valid.email@example.com,0123334444,Regular,name is shorter than the 2 character minimum
+Abcdefghij Abcdefghij Abcdefghij Abcdefghij Abcdefg,valid.email@example.com,0123334444,Regular,name is longer than the 50 character maximum
+John123,valid.email@example.com,0123334444,Regular,name contains digits
+Valid Name,notanemailaddress,0123334444,Regular,email address has no at sign
+Valid Name,john@nodotdomain,0123334444,Regular,email domain has no dot
+Valid Name,john@@example.com,0123334444,Regular,email address has two at signs
+Valid Name,valid.email@example.com,012345678,Regular,phone number has only 9 digits
+Valid Name,valid.email@example.com,012345678901,Regular,phone number has 12 digits
+Valid Name,valid.email@example.com,0221234567,Regular,phone number does not begin with 01
+Valid Name,valid.email@example.com,01A2345678,Regular,phone number contains a letter
+Valid Name,valid.email@example.com,0123334444,Platinum,customer type is not supported
